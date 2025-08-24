@@ -67,9 +67,3 @@ java -cp "twilio-x.x.x.jar;." ATM
 
 ➤Twilio Phone Number
 
-📂 Project Structure
-ATM-Mini-Project/
-│── ATM.java        # Main source code
-│── README.md      
-│── twilio-x.x.x.jar 
- 
